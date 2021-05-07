@@ -60,6 +60,7 @@ Flash drive, 16GB or more, for the above purpose.
 [HackinTool](https://github.com/headkaze/Hackintool) for diagnosis ONLY. Most of the built-in patches are outdated.
 
 - 耐心和时间，以及自主学习能力。如果你是第一次进行黑苹果，这尤为重要
+
 Patience and time, as well as autonomous learning ability. especially if this is your first time Hackintosh-ing.
 
 ### 硬件修改 / Hardware Modification
