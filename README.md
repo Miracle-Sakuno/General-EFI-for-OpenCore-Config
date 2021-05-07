@@ -91,9 +91,9 @@ Download BIOS at Motherboard manufacturer Support Website.
 
 禁用 / Disabled
 * Fast Boot～快速启动
-* VT-d(can be enabled if you set DisableIoMapper to YES)～VT-d（如果DisableIOMapper Quirk设置为YES，则可以启用）
+* VT-d(can be enabled if you set DisableIoMapper Quirks to YES)～VT-d（如果DisableIOMapper Quirks设置为YES，则可以启用）
 * CSM～CSM 兼容性支持模块
-* Thunderbolt～雷雳（暂时关闭）
+* Thunderbolt (Temporarily disabled)～雷雳（暂时禁用）
 * Intel SGX～英特尔SGX
 * Intel Platform Trust～英特尔平台信任
 * CFG Lock(MSR 0xE2 write protection)～CFG锁（MSR 0xE2写保护）（必须关闭，如果找不到该选项，则在OpenCore的config-内核-> Quirks下启用与CFG Lock相关选项）
@@ -103,14 +103,14 @@ Download BIOS at Motherboard manufacturer Support Website.
 
 启用 / Enabled
 * VT-x～VT-x
-* UEFI启动模式。请不要使用Legacy
-* 硬盘模式改AHCI。不能用IDE和RST RAID。
+* UEFI启动模式。请不要使用Legacy（UEFI startup mode. Please don't use Legacy）
+* 硬盘模式改AHCI。不能用IDE和RST RAID。（Hard disk mode changed to AHCI. IDE and RST Raid cannot be used）
 * Above 4G decoding～大于4G地址空间解码
 * Hyper-Threading～超线程
 * Execute Disable Bit～执行禁用位
 * EHCI/XHCI Hand-off～EHCI / XHCI接手控制
 * OS type: Windows 8.1/10 UEFI Mode～操作系统类型：Windows 8.1 / 10 UEFI模式
-* DVMT Pre-Allocated(iGPU Memory): DVMT预分配（iGPU内存）：64MB（如果能设Max就设）
+* DVMT Pre-Allocated(iGPU Memory): DVMT预分配（iGPU内存）：64MB及以上 （64MB and above）
 * Legacy RTC Device～传统RTC设备
 
 ## 其他信息 / Other Information
