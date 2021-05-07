@@ -1,9 +1,8 @@
-# General-EFI-for-OpenCore-Config
-Template for Quick installation of Hackintosh
-
 <h1 align="center">General-EFI-for-OpenCore-Config</h1>
 <h3 align="center">通用OpenCore EFI配置文件</h3>
 <br>
+
+Template for Quick installation of Hackintosh
 
 ## 免责声明 / Disclaimer
 
