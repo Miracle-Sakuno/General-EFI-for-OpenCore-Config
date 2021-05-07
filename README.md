@@ -89,7 +89,7 @@ Download BIOS at Motherboard manufacturer Support Website.
 
 ### 修改BIOS设置 / BIOS Settings
 
-禁用
+禁用 / Disabled
 * Fast Boot～快速启动
 * VT-d(can be enabled if you set DisableIoMapper to YES)～VT-d（如果DisableIOMapper Quirk设置为YES，则可以启用）
 * CSM～CSM 兼容性支持模块
@@ -101,7 +101,7 @@ Download BIOS at Motherboard manufacturer Support Website.
 * Parallel Port～并口
 * Serial/COM Port～串行/COM端口
 
-启用
+启用 / Enabled
 * VT-x～VT-x
 * UEFI启动模式。请不要使用Legacy
 * 硬盘模式改AHCI。不能用IDE和RST RAID。
