@@ -3,6 +3,7 @@
 <br>
 
 辅助快速安装黑苹果的模板
+
 Template for Quick installation of Hackintosh
 
 ## 免责声明 / Disclaimer
