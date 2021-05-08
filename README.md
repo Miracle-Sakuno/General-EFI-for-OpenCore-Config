@@ -127,6 +127,9 @@ Please customize the USB Port before installing MacOS Big Sur 11.3 or later.
 
 After installing macOS Big Sur 11.3 and later, disable config-Kernel-Quirks-XhciPortLimit .
 
+- 具体详细注意事项和推荐参数内容都通过“#”注释方法写在了config文件内，请自行参考吧。
+The detailed notes and recommended parameters are written in the config file through the "#" annotation method, please refer to it.
+
 待补充……
 
 To be added……
