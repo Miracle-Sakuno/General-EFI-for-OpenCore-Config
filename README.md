@@ -148,4 +148,4 @@ Authored and maintained by Miracle樱乃. with help from contributors ([list](ht
 
 > GitHub [@Miracle樱乃.](https://github.com/Miracle-Sakuno) 
 
-此文档暂时归档，请勿改动
+此文档暂时归档，若有其他维护者请勿改动
