@@ -143,7 +143,7 @@ Donating to this project is OPTIONAL. But feel free to buy me a coffee if you ap
 
 ## 维护者 / Maintainer
 
-© [Miracle樱乃.](https://github.com/Miracle-Sakuno), Released under the [MIT](./LICENSE) License.<br>
+© [Miracle樱乃.](https://github.com/Miracle-Sakuno), Released under the [MIT License](./LICENSE) .<br>
 Authored and maintained by Miracle樱乃. with help from contributors ([list](https://github.com/Miracle-Sakuno/General-EFI-for-OpenCore-Config/graphs/contributors)).
 
 > GitHub [@Miracle樱乃.](https://github.com/Miracle-Sakuno) 
