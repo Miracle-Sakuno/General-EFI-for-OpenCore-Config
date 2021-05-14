@@ -2,6 +2,8 @@
 <h3 align="center">通用OpenCore EFI配置文件</h3>
 <br>
 
+## 概览 / Overview
+
 辅助快速安装黑苹果的模板
 
 Template for Quick installation of Hackintosh
@@ -58,6 +60,10 @@ Flash drive, 16GB or more, for the above purpose.
 - **仅用于** 诊断的 [HackinTool](https://github.com/headkaze/Hackintool)，大部分内置的补丁和工具已经过时，不再适用
 
 [HackinTool](https://github.com/headkaze/Hackintool) for diagnosis ONLY. Most of the built-in patches are outdated.
+
+- 可在Windows10操作系统环境下简单快捷地定制USB端口的工具 [USBToolBox Beta](https://github.com/USBToolBox/tool)。
+
+[USBToolBox](https://github.com/USBToolBox/tool) a tool that can easily and quickly customize USB port in Windows 10 operating system.
 
 - 耐心和时间，以及自主学习能力。如果你是第一次进行黑苹果，这尤为重要
 
