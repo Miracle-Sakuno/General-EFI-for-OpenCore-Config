@@ -63,7 +63,7 @@ Flash drive, 16GB or more, for the above purpose.
 
 - 可在Windows10操作系统环境下简单快捷地定制USB端口的工具 [USBToolBox Beta](https://github.com/USBToolBox/tool)。
 
-[USBToolBox](https://github.com/USBToolBox/tool) a tool that can easily and quickly customize USB port in Windows 10 operating system.
+[USBToolBox Beta](https://github.com/USBToolBox/tool) a tool that can easily and quickly customize USB port in Windows 10 operating system.
 
 - 耐心和时间，以及自主学习能力。如果你是第一次进行黑苹果，这尤为重要
 
