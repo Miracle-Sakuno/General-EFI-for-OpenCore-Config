@@ -153,6 +153,7 @@ Donating to this project is OPTIONAL. But feel free to buy me a coffee if you ap
 Authored and maintained by Miracle樱乃. with help from contributors ([list](https://github.com/Miracle-Sakuno/General-EFI-for-OpenCore-Config/graphs/contributors)).
 
 > GitHub [@Miracle樱乃.](https://github.com/Miracle-Sakuno) 
-> Twitter [@Miracle樱乃.](https://twitter.com/TokiharaSay)
+
+> Twitter [@Miracle樱乃.](https://twitter.com/Miracle_Sakuno)
 
 此文档暂时归档，若有其他维护者请勿改动
