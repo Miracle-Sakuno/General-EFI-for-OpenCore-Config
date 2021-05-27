@@ -79,7 +79,7 @@ Samusung PM981/PM981a/PM991 is not supported AT ALL. Make sure to switch at leas
 
 #### 无线网卡 / Wireless Card
 
-It is recommended to use Broadcom wireless network card to obtain * * better * * performance and use native functions about「Apple Ecology」(I mean, 100x FASTER!)
+It is recommended to use Broadcom wireless network card to obtain ** Better ** performance and use native functions about「Apple Ecology」(I mean, 100x FASTER!)
 
 建议使用博通无线网卡以获得 **更好** 的性能和使用原生的关于「苹果生态」的功能（更好，指速度快 **100 倍**）
 
