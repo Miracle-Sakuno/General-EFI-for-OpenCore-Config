@@ -141,6 +141,20 @@ The detailed notes and recommended parameters are written in the config file thr
 
 To be added……
 
+## 笔记本用户 / Laptops Users
+
+- HP惠普笔记本用户
+HP Laptops Users
+
+Kernel->Quirks->LapicKernelPanic->True
+UEFI->Quirks->UnblockFsConnect->True
+
+- Dell戴尔笔记本用户
+Dell Laptops Users
+
+Kernel->Quirks->CustomSMBIOSGuid->True
+PlatformInfo->Quirks->UpdateSMBIOSMode->Custom
+
 ## 捐赠 / Donation
 
 捐赠本项目 **并不是必需的**。但是如果我的项目对你有所帮助，为什么不考虑一下给我买杯咖啡呢？
