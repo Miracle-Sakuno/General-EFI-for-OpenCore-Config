@@ -147,12 +147,14 @@ To be added……
 HP Laptops Users
 
 Kernel->Quirks->LapicKernelPanic->True
+
 UEFI->Quirks->UnblockFsConnect->True
 
 - Dell戴尔笔记本用户
 Dell Laptops Users
 
 Kernel->Quirks->CustomSMBIOSGuid->True
+
 PlatformInfo->Quirks->UpdateSMBIOSMode->Custom
 
 ## 捐赠 / Donation
