@@ -144,6 +144,7 @@ To be added……
 ## 笔记本用户 / Laptops Users
 
 - HP惠普笔记本用户
+
 HP Laptops Users
 
 Kernel->Quirks->LapicKernelPanic->True
@@ -151,6 +152,7 @@ Kernel->Quirks->LapicKernelPanic->True
 UEFI->Quirks->UnblockFsConnect->True
 
 - Dell戴尔笔记本用户
+
 Dell Laptops Users
 
 Kernel->Quirks->CustomSMBIOSGuid->True
