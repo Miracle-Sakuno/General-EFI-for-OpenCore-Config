@@ -159,6 +159,12 @@ Kernel->Quirks->CustomSMBIOSGuid->True
 
 PlatformInfo->Quirks->UpdateSMBIOSMode->Custom
 
+## 鸣谢 / Gratitude
+
+- Apple macOS
+- Acidanthera Team
+- Dortania OpenCore Install Guide
+
 ## 捐赠 / Donation
 
 捐赠本项目 **并不是必需的**。但是如果我的项目对你有所帮助，为什么不考虑一下给我买杯咖啡呢？
