@@ -163,7 +163,7 @@ PlatformInfo->Quirks->UpdateSMBIOSMode->Custom
 
 - Apple macOS
 - Acidanthera Team
-- Dortania OpenCore Install Guide
+- Dortania‘s OpenCore Install Guide
 
 etc......
 
