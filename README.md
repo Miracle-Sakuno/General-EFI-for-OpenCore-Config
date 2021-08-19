@@ -33,9 +33,9 @@ Your warranty is now void. Please do some research if you have any concerns befo
 
 ### 基本需求 / Basic
 
-- 一台已经安装好 macOS 的机器，用于制作 macOS 安装器和编译本项目（但是Windows10 PC也可以做到）
+- 一台已经安装好 macOS 的机器，用于制作 macOS 安装器和编译本项目（但是Windows PC也可以做到）
 
-A macOS machine (optional): to create the macOS installer and build the EFI. (But windows 10 PC can do the same)
+A macOS machine (optional): to create the macOS installer and build the EFI. (But windows PC can do the same)
 
 - 一个容量大于等于 16 GiB 的 U 盘
 
