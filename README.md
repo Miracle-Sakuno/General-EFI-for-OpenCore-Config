@@ -188,6 +188,6 @@ Authored and maintained by Miracle樱乃. with help from contributors ([list](ht
 
 Note: my social account is only for GitHub, twitter and telegraph channels, and my QQ account is 2112074157. In addition to the above four personal accounts, any other person who publishes information in my name is a liar. Pay attention to verification
 
-Pay special attention to this person's QQ account: 1063995989. He deliberately embezzles his identity and publishes all kinds of false news for a long time. Please pay attention to verification and help me report him
+Pay special attention to this person's QQ account: 1063995989，1248394877. He deliberately embezzles his identity and publishes all kinds of false news for a long time. Please pay attention to verification and help me report him
 
 Thank you for your support
