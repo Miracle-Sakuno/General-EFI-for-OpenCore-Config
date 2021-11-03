@@ -106,6 +106,7 @@ Download BIOS at Motherboard manufacturer Support Website.
 * Secure Boot～安全启动
 * Parallel Port～并口
 * Serial/COM Port～串行/COM端口
+* Resizable BAR Support
 
 启用 / Enabled
 * VT-x～VT-x
