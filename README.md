@@ -137,6 +137,15 @@ After installing macOS Big Sur 11.3 and later, disable config-Kernel-Quirks-Xhci
 
 The detailed notes and recommended parameters are written in the config file through the "#" annotation method, please refer to it.
 
+根据您主板的USB控制器设备ID来看，您可能需要安装额外的 kexts:
+
+XHCI-unsupported.kext
+* X99系列芯片组XHC控制器，8086:8d31
+* 200系列芯片组XHC控制器，8086:a2af（根据macOS版本而有）
+* 300系列芯片组XHC控制器，8086:a36d或8086:9ded
+* 400系列芯片组XHC控制器，8086:a3af
+* 500系列芯片组XHC控制器，8086:43ed
+
 待补充……
 
 To be added……
