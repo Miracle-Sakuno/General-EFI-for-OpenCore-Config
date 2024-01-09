@@ -174,6 +174,8 @@ PlatformInfo->Quirks->UpdateSMBIOSMode->Custom
 - Apple macOS
 - Acidanthera Team
 - Dortania‘s OpenCore Install Guide
+- AMD OS X
+- OpenIntelWireless
 
 etc......
 
