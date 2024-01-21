@@ -176,6 +176,7 @@ PlatformInfo->Quirks->UpdateSMBIOSMode->Custom
 - Dortania‘s OpenCore Install Guide
 - AMD OS X
 - OpenIntelWireless
+- SukkaW
 
 etc......
 
